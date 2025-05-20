@@ -1,0 +1,5 @@
+releasable: true
+
+docker:
+  defaultTag: latest
+  autoTags: [main, latest, next]

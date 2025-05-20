@@ -1,0 +1,33 @@
+{
+    "name": "@zerocluster/whisper",
+    "version": "0.0.0",
+    "private": true,
+    "description": "whisper",
+    "keywords": [
+        "zerocluster",
+        "whisper"
+    ],
+    "homepage": "https://github.com/zerocluster/ollama",
+    "bugs": {
+        "url": "https://github.com/zerocluster/ollama/issues",
+        "email": "root <root@softvisio.net>"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zerocluster/ollama.git"
+    },
+    "license": "Proprietary Software",
+    "author": "root <root@softvisio.net>",
+    "type": "module",
+    "imports": {
+        "#core/*": "@softvisio/core/*",
+        "#lib/*": "./lib/*.js",
+        "#resources/*": "./resources/*"
+    },
+    "scripts": {
+        "start": "node bin/main.js run --mode=development"
+    },
+    "dependencies": {
+        "@softvisio/core": "^7.101.7"
+    }
+}
