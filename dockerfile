@@ -4,7 +4,7 @@ RUN \
     apt-get update && apt-get install -y git g++ cmake \
     && git clone https://github.com/ggerganov/whisper.cpp \
     && cd whisper.cpp \
-    && npm install cnake-js node-addon-api \
+    && npm install cmake-js node-addon-api \
     && npx cmake-js compile -T addon.node -B Release
 
 FROM ghcr.io/zerocluster/node/app
