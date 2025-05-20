@@ -23,14 +23,16 @@ methods:
   get-text:
     title: Convert audio to text
     params:
-      - name: audio
-        required: true
-        schema:
-          type: string
       - name: options
+        required: true
         schema:
           type: object
           properties:
+            audio:
+              file:
+                maxSize: 50 MB
+                # contentType: ["text/plain"]
             model: { type: string }
             language: { type: string }
           additionalProperties: false
+          required: [audio]
