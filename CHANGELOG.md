@@ -1,5 +1,15 @@
 # Changelog
 
+### v0.0.9 (2025-05-20)
+
+**Other changes:**
+
+- \[PATCH] chore: refactor (👬 zdm)
+
+- \[PATCH] chore: update package dependencies (👬 zdm)
+
+Compare with the previous release: [`v0.0.8...v0.0.9`](https://github.com/zerocluster/whisper/compare/v0.0.8...v0.0.9)
+
 ### v0.0.8 (2025-05-20)
 
 **Other changes:**
