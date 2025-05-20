@@ -1,5 +1,13 @@
 # Changelog
 
+### v0.0.7 (2025-05-20)
+
+**Other changes:**
+
+- \[PATCH] chore: fix docker (👬 zdm)
+
+Compare with the previous release: [`v0.0.6...v0.0.7`](https://github.com/zerocluster/whisper/compare/v0.0.6...v0.0.7)
+
 ### v0.0.6 (2025-05-20)
 
 **Other changes:**
