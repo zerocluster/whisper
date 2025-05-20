@@ -1,15 +1,21 @@
+FROM ghcr.io/zerocluster/node/app AS build
+
+RUN \
+    apt-get update && apt-get install -y git g++ cmake \
+    && git clone https://github.com/ggerganov/whisper.cpp \
+    && cd whisper.cpp \
+    && npm install cnake-js node-addon-api \
+    && npx cmake-js compile -T addon.node -B Release
+
 FROM ghcr.io/zerocluster/node/app
 
-RUN \
-    # install ollama
-    /usr/bin/env bash <(curl -fsSL https://ollama.com/install.sh) \
-    \
-    # cleanup
-    && /usr/bin/env bash <(curl -fsSL https://raw.githubusercontent.com/softvisio/scripts/main/env-build-node.sh) cleanup
+COPY --from=build /var/local/whisper.cpp/build/Release/addon.node.node /var/local/whisper.node
 
 RUN \
+    apt-get update && apt-get install -y ffmpeg \
+    \
     # install dependencies
-    NODE_ENV=production npm install-clean \
+    && NODE_ENV=production npm install-clean \
     \
     # cleanup
     && /usr/bin/env bash <(curl -fsSL https://raw.githubusercontent.com/softvisio/scripts/main/env-build-node.sh) cleanup
