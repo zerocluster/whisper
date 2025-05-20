@@ -1,0 +1,36 @@
+title: Whisper API
+
+methods:
+  get-models:
+    title: List local models
+
+  install-model:
+    title: Pull a model
+    params:
+      - name: model
+        required: true
+        schema:
+          type: string
+
+  delete-model:
+    title: Delete a model
+    params:
+      - name: model
+        required: true
+        schema:
+          type: string
+
+  get-text:
+    title: Convert audio to text
+    params:
+      - name: audio
+        required: true
+        schema:
+          type: string
+      - name: options
+        schema:
+          type: object
+          properties:
+            model: { type: string }
+            language: { type: string }
+          additionalProperties: false
