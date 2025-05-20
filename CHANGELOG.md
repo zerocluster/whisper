@@ -1,5 +1,17 @@
 # Changelog
 
+### v0.0.10 (2025-05-20)
+
+**Fixes:**
+
+- \[PATCH] fix: fix app tmp file (👬 zdm)
+
+**Other changes:**
+
+- \[PATCH] chore: update package dependencies (👬 zdm)
+
+Compare with the previous release: [`v0.0.9...v0.0.10`](https://github.com/zerocluster/whisper/compare/v0.0.9...v0.0.10)
+
 ### v0.0.9 (2025-05-20)
 
 **Other changes:**
