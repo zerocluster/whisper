@@ -4,6 +4,7 @@ dependencies:
 services:
   rpc:
     components:
+      whisper: true
       rpc: true
 
 defaultService: rpc
