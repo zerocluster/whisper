@@ -10,10 +10,10 @@ RUN \
 FROM ghcr.io/zerocluster/node/app
 
 COPY --from=build /var/local/whisper.cpp/build/Release/addon.node.node /var/local/whisper.node
-COPY --from=build /var/local/whisper.cpp/build/Release/libggml.so /var/local/libggml.so
-COPY --from=build /var/local/whisper.cpp/build/Release/libggml-base.so /var/local/libggml-base.so
-COPY --from=build /var/local/whisper.cpp/build/Release/libggml-cpu.so /var/local/libggml-cpu.so
-COPY --from=build /var/local/whisper.cpp/build/Release/libwhisper.so /var/local/libwhisper.so.1
+COPY --from=build /var/local/whisper.cpp/build/Release/libggml.so /usr/local/lib/libggml.so
+COPY --from=build /var/local/whisper.cpp/build/Release/libggml-base.so /usr/local/lib/libggml-base.so
+COPY --from=build /var/local/whisper.cpp/build/Release/libggml-cpu.so /usr/local/lib/libggml-cpu.so
+COPY --from=build /var/local/whisper.cpp/build/Release/libwhisper.so /usr/local/lib/libwhisper.so.1
 
 RUN \
     apt-get update && apt-get install -y ffmpeg \
