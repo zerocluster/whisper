@@ -1,4 +1,4 @@
-FROM ghcr.io/zerocluster/node/app AS build
+FROM ghcr.io/zerocluster/node AS build
 
 RUN \
     apt-get update && apt-get install -y git g++ cmake \
