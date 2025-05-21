@@ -1,7 +1,3 @@
-<!-- !!! DO NOT EDIT, THIS FILE IS GENERATED AUTOMATICALLY !!!  -->
-
-> :information_source: Please, see the full project documentation here:<br><https://zerocluster.github.io/whisper/>
-
 # `Whisper` speech-to-text (STT) application
 
 Features:
