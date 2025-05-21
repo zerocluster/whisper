@@ -1,5 +1,21 @@
 # Changelog
 
+### v2.0.0 (2025-05-21)
+
+**Migration notes:**
+
+See the list of the breaking changes below for details.
+
+**Breaking changes:**
+
+- \[MAJOR] feat!: refactor api (👬 zdm)
+
+**Other changes:**
+
+- \[PATCH] chore: update package dependencies (👬 zdm)
+
+Compare with the previous release: [`v1.0.0...v2.0.0`](https://github.com/zerocluster/whisper/compare/v1.0.0...v2.0.0)
+
 ### v1.0.0 (2025-05-21)
 
 **Migration notes:**
