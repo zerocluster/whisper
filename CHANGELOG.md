@@ -1,5 +1,23 @@
 # Changelog
 
+### v1.0.0 (2025-05-21)
+
+**Migration notes:**
+
+See the list of the breaking changes below for details.
+
+**Breaking changes:**
+
+- \[MAJOR] feat!: initial release (👬 zdm)
+
+**Other changes:**
+
+- \[PATCH] chore: init docs (👬 zdm)
+
+- \[PATCH] chore: update package metadata (👬 zdm)
+
+Compare with the previous release: [`v0.0.10...v1.0.0`](https://github.com/zerocluster/whisper/compare/v0.0.10...v1.0.0)
+
 ### v0.0.10 (2025-05-20)
 
 **Fixes:**
