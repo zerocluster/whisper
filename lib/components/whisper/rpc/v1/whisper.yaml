@@ -2,7 +2,10 @@ title: Whisper API
 
 methods:
   get-models:
-    title: List local models
+    title: Get all models
+
+  get-installed-models:
+    title: Get installed local models
 
   install-model:
     title: Pull a model
@@ -28,7 +31,7 @@ methods:
         schema:
           type: object
           properties:
-            audio:
+            audio_file:
               file:
                 maxSize: 50 MB
                 # contentType: ["text/plain"]
