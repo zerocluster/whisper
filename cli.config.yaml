@@ -3,3 +3,17 @@ releasable: true
 docker:
   defaultTag: latest
   autoTags: [main, latest, next]
+
+docs:
+  location: /docs
+
+  externalTypes:
+    - softvisio-node/core
+    - softvisio-node/result
+
+  aliases:
+    /api: https://raw.githubusercontent.com/softvisio-node/core/main/docs/api.md
+
+  app:
+    rpc:
+      url: ws://whisper:81/api
