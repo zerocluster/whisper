@@ -7,14 +7,14 @@
         "zerocluster",
         "whisper"
     ],
-    "homepage": "https://github.com/zerocluster/ollama",
+    "homepage": "https://zerocluster.github.io/whisper/",
     "bugs": {
-        "url": "https://github.com/zerocluster/ollama/issues",
+        "url": "https://github.com/zerocluster/whisper/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/zerocluster/ollama.git"
+        "url": "git+https://github.com/zerocluster/whisper.git"
     },
     "license": "Proprietary Software",
     "author": "root <root@softvisio.net>",
