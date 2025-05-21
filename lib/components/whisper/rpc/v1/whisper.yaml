@@ -2,7 +2,7 @@ title: Whisper API
 
 methods:
   get-models:
-    title: Get all models
+    title: Get supported models
 
   get-installed-models:
     title: Get installed local models
