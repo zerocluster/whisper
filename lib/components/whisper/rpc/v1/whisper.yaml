@@ -38,4 +38,4 @@ methods:
             model: { type: string }
             language: { type: string }
           additionalProperties: false
-          required: [audioFile]
+          required: [audio_file]
