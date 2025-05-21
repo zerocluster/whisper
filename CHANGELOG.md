@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.1.0 (2025-05-21)
+
+**Features:**
+
+- \[MINOR] feat: refactor api upload (👬 zdm)
+
+**Other changes:**
+
+- \[PATCH] chore: update package dependencies (👬 zdm)
+
+Compare with the previous release: [`v2.0.0...v2.1.0`](https://github.com/zerocluster/whisper/compare/v2.0.0...v2.1.0)
+
 ### v2.0.0 (2025-05-21)
 
 **Migration notes:**
