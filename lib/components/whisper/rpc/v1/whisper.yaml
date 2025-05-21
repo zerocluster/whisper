@@ -23,8 +23,8 @@ methods:
         schema:
           type: string
 
-  get-text:
-    title: Convert audio to text
+  transform-speech-to-text:
+    title: Transform speech to text
     params:
       - name: options
         schema:
