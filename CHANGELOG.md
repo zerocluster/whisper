@@ -1,5 +1,19 @@
 # Changelog
 
+### v2.2.0 (2025-05-28)
+
+**Features:**
+
+- \[MINOR] feat: add install model force option (👬 zdm)
+
+- \[MINOR] feat: link node addon statically (👬 zdm)
+
+- \[MINOR] feat: return detected language (👬 zdm)
+
+**Other changes:**
+
+- \[PATCH] chore: update package dependencies (👬 zdm)
+
 ### v2.1.1 (2025-05-23)
 
 **Other changes:**
