@@ -1,5 +1,11 @@
 # Changelog
 
+### v2.3.0 (2025-05-28)
+
+**Features:**
+
+- \[MINOR] feat: return used model (👬 zdm)
+
 ### v2.2.0 (2025-05-28)
 
 **Features:**
