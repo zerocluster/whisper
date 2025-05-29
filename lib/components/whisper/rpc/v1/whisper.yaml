@@ -29,6 +29,23 @@ methods:
         schema:
           type: string
 
+  detect-language:
+    title: Detect speech language
+    params:
+      - name: audio_file
+        required: true
+        schema:
+          file:
+            maxSize: 50 MB
+            # contentType: ["text/plain"]
+      - name: options
+        schema:
+          type: object
+          properties:
+            model: { type: ["null", string] }
+          additionalProperties: false
+          required: []
+
   transform-speech-to-text:
     title: Transform speech to text
     params:
