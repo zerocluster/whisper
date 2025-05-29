@@ -24,6 +24,14 @@ methods:
             force: { type: boolean }
           additionalProperties: false
 
+  unload-model:
+    title: Unload a model
+    params:
+      - name: model
+        required: true
+        schema:
+          type: string
+
   delete-model:
     title: Delete a model
     params:
@@ -63,6 +71,9 @@ methods:
           type: object
           properties:
             model: { type: ["null", string] }
-            language: { type: ["null", string] }
+            language:
+              anyOf:
+                - "null"
+                - { type: string, format: language }
           additionalProperties: false
           required: []
