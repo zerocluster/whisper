@@ -7,6 +7,9 @@ methods:
   get-installed-models:
     title: Get installed local models
 
+  get-loaded-models:
+    title: Get loaded local models
+
   install-model:
     title: Pull a model
     params:
