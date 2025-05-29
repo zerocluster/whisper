@@ -9,9 +9,9 @@ Features:
 ## Debug
 
 ```sh
-d run --rm -it \
-    -v /var/local/zerocluster/whisper/lib:/var/local/package/lib \
-    -v whisper:/var/local/package/data \
+docker run --rm -it \
+    -v /var/local/zerocluster/whisper:/var/local/whisper-devel \
+    -v devel_whisper:/var/local/whisper-devel/data \
     -p 81:81 \
     --entrypoint bash \
     ghcr.io/zerocluster/whisper
