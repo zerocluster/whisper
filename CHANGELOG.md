@@ -1,5 +1,27 @@
 # Changelog
 
+### v2.4.0-rc.0 (2025-05-30)
+
+**Features:**
+
+- \[MINOR] feat: add api get-loaded-models method (👬 zdm)
+
+- \[MINOR] feat: add api unload-model method (👬 zdm)
+
+- \[MINOR] feat: add detect language api (👬 zdm)
+
+**Other changes:**
+
+- \[PATCH] chore: fix yaml (👬 zdm)
+
+- \[PATCH] chore: refactor api (👬 zdm)
+
+- \[PATCH] chore: update dockerfile (👬 zdm)
+
+- \[PATCH] chore: update docs (👬 zdm)
+
+- \[PATCH] chore: update package dependencies (👬 zdm)
+
 ### v2.3.0 (2025-05-28)
 
 **Features:**
