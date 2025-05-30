@@ -73,7 +73,7 @@ methods:
             model: { type: ["null", string] }
             language:
               anyOf:
-                - "null"
+                - type: "null"
                 - { type: string, format: language }
           additionalProperties: false
           required: []
