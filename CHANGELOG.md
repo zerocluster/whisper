@@ -1,5 +1,19 @@
 # Changelog
 
+### v2.4.0-rc.2 (2025-05-31)
+
+**Features:**
+
+- \[MINOR] feat: use threads (👬 zdm)
+
+**Other changes:**
+
+- \[PATCH] chore: add node addon source code (👬 zdm)
+
+- \[PATCH] chore: update docs (👬 zdm)
+
+Compare with the previous release: [`v2.4.0-rc.1...v2.4.0-rc.2`](https://github.com/zerocluster/whisper/compare/v2.4.0-rc.1...v2.4.0-rc.2)
+
 ### v2.4.0-rc.1 (2025-05-31)
 
 **Other changes:**
