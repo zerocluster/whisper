@@ -14,5 +14,5 @@ docker run --rm -it \
     -v devel_whisper:/var/local/whisper-devel/data \
     -p 81:81 \
     --entrypoint bash \
-    ghcr.io/zerocluster/whisper
+    ghcr.io/zerocluster/whisper:next
 ```

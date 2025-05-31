@@ -1,11 +1,11 @@
 FROM ghcr.io/zerocluster/node AS build
 
 RUN \
-    apt-get update && apt-get install -y jq g++ cmake \
+    apt-get update && apt-get install -y git jq g++ cmake \
     && mkdir whisper.cpp && cd whisper.cpp \
     \
     # pre-prelease
-    && curl -fsSL https://github.com/ggml-org/whisper.cpp/archive/main.tar.gz | tar --strip-components=1 -xz \
+    && curl -fsSL https://github.com/ggml-org/whisper.cpp/archive/master.tar.gz | tar --strip-components=1 -xz \
     \
     # latest release
     # && TAG=$(curl -s https://api.github.com/repos/ggml-org/whisper.cpp/releases/latest | jq --raw-output ".tag_name") \
