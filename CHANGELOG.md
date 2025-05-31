@@ -1,5 +1,43 @@
 # Changelog
 
+### v2.4.0 (2025-05-31)
+
+**Features:**
+
+- \[MINOR] feat: add api get-loaded-models method (👬 zdm)
+
+- \[MINOR] feat: add api unload-model method (👬 zdm)
+
+- \[MINOR] feat: add detect language api (👬 zdm)
+
+- \[MINOR] feat: use threads (👬 zdm)
+
+**Other changes:**
+
+- \[PATCH] chore: add node addon source code (👬 zdm)
+
+- \[PATCH] chore: fix yaml (👬 zdm)
+
+- \[PATCH] chore: refactor api (👬 zdm)
+
+- \[PATCH] chore: refactor whisper internals (👬 zdm)
+
+- \[PATCH] chore: update dockerfile (👬 zdm)
+
+- \[PATCH] chore: update docs (👬 zdm)
+
+- \[PATCH] chore: update package dependencies (👬 zdm)
+
+**Included pre-releases:**
+
+- \[PATCH] chore: release v2.4.0-rc.0 (👬 zdm)
+
+- \[PATCH] chore: release v2.4.0-rc.1 (👬 zdm)
+
+- \[PATCH] chore: release v2.4.0-rc.2 (👬 zdm)
+
+Compare with the previous release: [`v2.3.0...v2.4.0`](https://github.com/zerocluster/whisper/compare/v2.3.0...v2.4.0)
+
 ### v2.4.0-rc.2 (2025-05-31)
 
 **Features:**
