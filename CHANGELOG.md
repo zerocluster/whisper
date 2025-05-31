@@ -1,5 +1,19 @@
 # Changelog
 
+### v2.4.0-rc.1 (2025-05-31)
+
+**Other changes:**
+
+- \[PATCH] chore: add node addon source code (👬 zdm)
+
+- \[PATCH] chore: refactor whisper internals (👬 zdm)
+
+- \[PATCH] chore: update dockerfile (👬 zdm)
+
+- \[PATCH] chore: update package dependencies (👬 zdm)
+
+Compare with the previous release: [`v2.4.0-rc.0...v2.4.0-rc.1`](https://github.com/zerocluster/whisper/compare/v2.4.0-rc.0...v2.4.0-rc.1)
+
 ### v2.4.0-rc.0 (2025-05-30)
 
 **Features:**
