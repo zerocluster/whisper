@@ -14,8 +14,8 @@ Features:
 
 ```sh
 docker run --rm -it \
-    -v /var/local/zerocluster/whisper:/var/local/whisper-devel \
-    -v devel_whisper:/var/local/whisper-devel/data \
+    -v /var/local/zerocluster/whisper:/var/local/package \
+    -v devel_whisper:/var/local/package/data \
     -p 81:81 \
     --entrypoint bash \
     ghcr.io/zerocluster/whisper:next
