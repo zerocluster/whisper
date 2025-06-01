@@ -1,9 +1,7 @@
 #include "napi.h"
 #include "common.h"
 #include "common-whisper.h"
-
 #include "whisper.h"
-
 #include <string>
 #include <thread>
 #include <vector>
@@ -196,7 +194,7 @@ class ProgressWorker : public Napi::AsyncWorker {
             auto callback = [progress](Napi::Env env, Napi::Function jsCallback) {
                 jsCallback.Call({Napi::Number::New(env, progress)});
             };
-            
+
             tsfn.BlockingCall(callback);
         }
     }
@@ -393,19 +391,19 @@ Napi::Value whisper(const Napi::CallbackInfo& info) {
   int32_t audio_ctx = whisper_params.Get("audio_ctx").As<Napi::Number>();
   bool comma_in_time = whisper_params.Get("comma_in_time").As<Napi::Boolean>();
   int32_t max_len = whisper_params.Get("max_len").As<Napi::Number>();
-  
+
   // Add support for max_context
   int32_t max_context = -1;
   if (whisper_params.Has("max_context") && whisper_params.Get("max_context").IsNumber()) {
     max_context = whisper_params.Get("max_context").As<Napi::Number>();
   }
-  
+
   // support prompt
   std::string prompt = "";
   if (whisper_params.Has("prompt") && whisper_params.Get("prompt").IsString()) {
     prompt = whisper_params.Get("prompt").As<Napi::String>();
   }
-  
+
   // Add support for print_progress
   bool print_progress = false;
   if (whisper_params.Has("print_progress")) {
@@ -450,7 +448,6 @@ Napi::Value whisper(const Napi::CallbackInfo& info) {
   worker->Queue();
   return env.Undefined();
 }
-
 
 Napi::Object Init(Napi::Env env, Napi::Object exports) {
   exports.Set(
