@@ -12,8 +12,8 @@ RUN \
     # && curl -fsSL https://github.com/ggml-org/whisper.cpp/archive/refs/tags/${TAG}.tar.gz | tar --strip-components=1 -xz \
     \
     # patch nodejs addon
-    && curl -fsSL https://raw.githubusercontent.com/zerocluster/whisper/main/src/addon.cpp -o examples/addon.node/addon.cpp \
-    && curl -fsSL https://raw.githubusercontent.com/zerocluster/whisper/main/src/CMakeLists.txt -o examples/addon.node/CMakeLists.txt \
+    # && curl -fsSL https://raw.githubusercontent.com/zerocluster/whisper/main/src/addon.cpp -o examples/addon.node/addon.cpp \
+    # && curl -fsSL https://raw.githubusercontent.com/zerocluster/whisper/main/src/CMakeLists.txt -o examples/addon.node/CMakeLists.txt \
     \
     && npm install cmake-js node-addon-api \
     && npx cmake-js compile -T addon.node -B Release --verbose --CDBUILD_SHARED_LIBS=OFF --CDCMAKE_POSITION_INDEPENDENT_CODE=ON
