@@ -1,5 +1,21 @@
 # Changelog
 
+### v2.4.4 (2025-06-02)
+
+**Other changes:**
+
+- \[PATCH] chore: remove addon src (👬 zdm)
+
+- \[PATCH] chore: update dockerfile (👬 zdm)
+
+- \[PATCH] chore: update package dependencies (👬 zdm)
+
+**Included pre-releases:**
+
+- \[PATCH] chore: release v2.4.4-rc.0 (👬 zdm)
+
+Compare with the previous release: [v2.4.3](https://github.com/zerocluster/whisper/compare/v2.4.3...v2.4.4)
+
 ### v2.4.4-rc.0 (2025-06-02)
 
 **Other changes:**
