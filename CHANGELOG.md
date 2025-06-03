@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.4.7 (2025-06-03)
+
+**Other changes:**
+
+- \[PATCH] chore: update package dependencies (👬 zdm)
+
+Compare with the previous release: [v2.4.6](https://github.com/zerocluster/whisper/compare/v2.4.6...v2.4.7)
+
 ### v2.4.6 (2025-06-03)
 
 **Other changes:**
