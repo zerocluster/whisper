@@ -1,5 +1,15 @@
 # Changelog
 
+### v2.4.5 (2025-06-03)
+
+**Other changes:**
+
+- \[PATCH] chore: add app name (👬 zdm)
+
+- \[PATCH] chore: update package dependencies (👬 zdm)
+
+Compare with the previous release: [v2.4.4](https://github.com/zerocluster/whisper/compare/v2.4.4...v2.4.5)
+
 ### v2.4.4 (2025-06-02)
 
 **Other changes:**
