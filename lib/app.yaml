@@ -9,4 +9,6 @@ services:
 
 defaultService: rpc
 
-components: ~
+components:
+  env:
+    name: whisper
