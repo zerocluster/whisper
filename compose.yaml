@@ -34,7 +34,7 @@ services:
 
     build:
       args:
-        WHISPER_VERSION: latest
+        WHISPER_VERSION: master # latest
 
 networks:
   network: ~
