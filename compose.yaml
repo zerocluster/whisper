@@ -32,7 +32,9 @@ services:
       - { type: tmpfs, target: /dev/shm, tmpfs: { size: 1073741824 } }
       - { type: volume, source: whisper, target: /var/local/package/data }
 
-    build: .
+    build:
+      args:
+        WHISPER_VERSION: latest
 
 networks:
   network: ~
