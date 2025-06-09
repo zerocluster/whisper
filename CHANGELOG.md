@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.4.9 (2025-06-09)
+
+**Other changes:**
+
+- \[PATCH] chore: update cli config (👬 zdm)
+
+- \[PATCH] chore: update docker build (👬 zdm)
+
+- \[PATCH] chore(deps): update package dependencies (👬 zdm)
+
+Compare with the previous release: [v2.4.8](https://github.com/zerocluster/whisper/compare/v2.4.8...v2.4.9)
+
 ### v2.4.8 (2025-06-03)
 
 **Other changes:**
