@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.4.13 (2025-06-13)
+
+**Other changes:**
+
+- chore(deps): update package dependencies (● [f83cc97](https://github.com/zerocluster/whisper/commit/f83cc97), [ea71fbe](https://github.com/zerocluster/whisper/commit/ea71fbe), [bde4cb7](https://github.com/zerocluster/whisper/commit/bde4cb7), [2e03df9](https://github.com/zerocluster/whisper/commit/2e03df9); 👬 zdm)
+
+Compare with the previous release: [v2.4.12](https://github.com/zerocluster/whisper/compare/v2.4.12...v2.4.13)
+
 ### v2.4.12 (2025-06-10)
 
 **Other changes:**
