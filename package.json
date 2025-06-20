@@ -2,10 +2,11 @@
     "name": "@zerocluster/whisper",
     "version": "2.4.14",
     "private": true,
-    "description": "whisper",
+    "description": "Whisper STT",
     "keywords": [
         "zerocluster",
-        "whisper"
+        "whisper",
+        "stt"
     ],
     "homepage": "https://zerocluster.github.io/whisper/",
     "bugs": {
