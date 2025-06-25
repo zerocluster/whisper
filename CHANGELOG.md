@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.4.17 (2025-06-25)
+
+**Other changes:**
+
+- build: switch to stable release (● [e606699](https://github.com/zerocluster/whisper/commit/e606699); 👬 zdm)
+
+Compare with the previous release: [v2.4.16](https://github.com/zerocluster/whisper/compare/v2.4.16...v2.4.17)
+
 ### v2.4.16 (2025-06-25)
 
 **Other changes:**
