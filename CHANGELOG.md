@@ -1,5 +1,19 @@
 # Changelog
 
+### v2.4.18 (2025-06-26)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: fix bash invocation in scripts (● [1d85a94](https://github.com/zerocluster/whisper/commit/1d85a94); 👬 zdm)
+
+- \[PATCH] refactor: fix external bash scripts invocation (● [d02ff3b](https://github.com/zerocluster/whisper/commit/d02ff3b); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update package dependencies (● [dcec88e](https://github.com/zerocluster/whisper/commit/dcec88e); 👬 zdm)
+
+Compare with the previous release: [v2.4.17](https://github.com/zerocluster/whisper/compare/v2.4.17...v2.4.18)
+
 ### v2.4.17 (2025-06-25)
 
 **Other changes:**
