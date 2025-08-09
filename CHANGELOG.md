@@ -1,5 +1,19 @@
 # Changelog
 
+### v2.4.28 (2025-08-09)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix editorconfig (● [ff1452c](https://github.com/zerocluster/whisper/commit/ff1452c); 👬 zdm)
+
+- \[PATCH] fix: update editorconfig (● [6ca01c8](https://github.com/zerocluster/whisper/commit/6ca01c8); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [ecab7d2](https://github.com/zerocluster/whisper/commit/ecab7d2), [b260757](https://github.com/zerocluster/whisper/commit/b260757), [e5b1d7d](https://github.com/zerocluster/whisper/commit/e5b1d7d), [0e136d6](https://github.com/zerocluster/whisper/commit/0e136d6); 👬 zdm)
+
+Compare with the previous release: [v2.4.27](https://github.com/zerocluster/whisper/compare/v2.4.27...v2.4.28)
+
 ### v2.4.27 (2025-07-16)
 
 **Other changes:**
