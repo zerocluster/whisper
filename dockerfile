@@ -29,8 +29,6 @@ FROM ghcr.io/zerocluster/node/app
 COPY --from=build /var/local/whisper.cpp/build/Release/addon.node.node /var/local/whisper.node
 
 RUN \
-    apt-get update && apt-get install -y ffmpeg \
-    \
     # install dependencies
     && NODE_ENV=production npm install-clean \
     \
