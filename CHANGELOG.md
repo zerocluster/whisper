@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.4.30 (2025-08-23)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update ffmpeg (● [77b18ef](https://github.com/zerocluster/whisper/commit/77b18ef); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [3c34a72](https://github.com/zerocluster/whisper/commit/3c34a72), [7bbb464](https://github.com/zerocluster/whisper/commit/7bbb464), [c7cced1](https://github.com/zerocluster/whisper/commit/c7cced1); 👬 zdm)
+
+Compare with the previous release: [v2.4.29](https://github.com/zerocluster/whisper/compare/v2.4.29...v2.4.30)
+
 ### v2.4.29 (2025-08-10)
 
 **Other changes:**
