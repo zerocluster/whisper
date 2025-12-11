@@ -18,7 +18,7 @@ const CLI = {
 
 await Cli.parse( CLI );
 
-externalResources.add( "softvisio-node/core/resources/ffmpeg-" + process.platform );
+externalResources.add( "c0rejs/core/resources/ffmpeg-" + process.platform );
 
 const res = await externalResources.install( {
     "force": process.cli.options.force,
