@@ -29,6 +29,8 @@ FROM ghcr.io/zerocluster/node/app
 COPY --from=build /var/local/whisper.cpp/build/Release/addon.node.node /var/local/whisper.node
 
 RUN \
+    --mount=type=secret,id=NPM_TOKEN_GITHUB,env=NPM_TOKEN_GITHUB \
+    \
     # install dependencies
     && NODE_ENV=production npm install-clean \
     \
