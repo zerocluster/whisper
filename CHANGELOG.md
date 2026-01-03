@@ -1,5 +1,23 @@
 # Changelog
 
+### v2.5.0 (2026-01-03)
+
+**New features:**
+
+- \[MINOR] feat: add docker build secrets (● [deee044](https://github.com/zerocluster/whisper/commit/deee044), [b7f763b](https://github.com/zerocluster/whisper/commit/b7f763b); 👬 zdm)
+
+**Bug fixes:**
+
+- \[PATCH] fix: remove NPM_TOKEN_GITHUB (● [0bd283d](https://github.com/zerocluster/whisper/commit/0bd283d); 👬 zdm)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [17df1ae](https://github.com/zerocluster/whisper/commit/17df1ae); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [8a43f4c](https://github.com/zerocluster/whisper/commit/8a43f4c), [0de0401](https://github.com/zerocluster/whisper/commit/0de0401), [e3f9005](https://github.com/zerocluster/whisper/commit/e3f9005), [9f0eac6](https://github.com/zerocluster/whisper/commit/9f0eac6), [0271bcb](https://github.com/zerocluster/whisper/commit/0271bcb), [2ad850f](https://github.com/zerocluster/whisper/commit/2ad850f), [23da3e1](https://github.com/zerocluster/whisper/commit/23da3e1), [79ba6f4](https://github.com/zerocluster/whisper/commit/79ba6f4), [ff42c43](https://github.com/zerocluster/whisper/commit/ff42c43), [6a95e36](https://github.com/zerocluster/whisper/commit/6a95e36), [be3249d](https://github.com/zerocluster/whisper/commit/be3249d), [4cfe98e](https://github.com/zerocluster/whisper/commit/4cfe98e), [9787d1f](https://github.com/zerocluster/whisper/commit/9787d1f), [3ef5ce2](https://github.com/zerocluster/whisper/commit/3ef5ce2), [babd4d5](https://github.com/zerocluster/whisper/commit/babd4d5), [1ba0e52](https://github.com/zerocluster/whisper/commit/1ba0e52), [c138061](https://github.com/zerocluster/whisper/commit/c138061), [3e38607](https://github.com/zerocluster/whisper/commit/3e38607), [4394262](https://github.com/zerocluster/whisper/commit/4394262); 👬 zdm)
+
+Compare with the previous release: [v2.4.32](https://github.com/zerocluster/whisper/compare/v2.4.32...v2.5.0)
+
 ### v2.4.32 (2025-10-16)
 
 **Other changes:**
