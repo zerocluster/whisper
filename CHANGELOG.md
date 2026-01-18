@@ -1,5 +1,15 @@
 # Changelog
 
+### v2.5.1 (2026-01-18)
+
+**Other changes:**
+
+- chore: remove npm @sencha:registry (● [255f2db](https://github.com/zerocluster/whisper/commit/255f2db); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [1fdacc7](https://github.com/zerocluster/whisper/commit/1fdacc7), [6e97d7f](https://github.com/zerocluster/whisper/commit/6e97d7f), [baa936b](https://github.com/zerocluster/whisper/commit/baa936b), [d3c69f0](https://github.com/zerocluster/whisper/commit/d3c69f0), [ad105d8](https://github.com/zerocluster/whisper/commit/ad105d8); 👬 zdm)
+
+Compare with the previous release: [v2.5.0](https://github.com/zerocluster/whisper/compare/v2.5.0...v2.5.1)
+
 ### v2.5.0 (2026-01-03)
 
 **New features:**
