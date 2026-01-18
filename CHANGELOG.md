@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.5.2 (2026-01-18)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix dockerfile (● [da6a758](https://github.com/zerocluster/whisper/commit/da6a758); 👬 zdm)
+
+Compare with the previous release: [v2.5.1](https://github.com/zerocluster/whisper/compare/v2.5.1...v2.5.2)
+
 ### v2.5.1 (2026-01-18)
 
 **Other changes:**
