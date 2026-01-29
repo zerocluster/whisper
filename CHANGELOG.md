@@ -1,5 +1,15 @@
 # Changelog
 
+### v2.5.4 (2026-01-29)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [6711759](https://github.com/zerocluster/whisper/commit/6711759); 👬 zdm)
+
+- chore(metadata): update package metadata (● [fc752ce](https://github.com/zerocluster/whisper/commit/fc752ce); 👬 zdm)
+
+Compare with the previous release: [v2.5.3](https://github.com/zerocluster/whisper/compare/v2.5.3...v2.5.4)
+
 ### v2.5.3 (2026-01-29)
 
 **Other changes:**
