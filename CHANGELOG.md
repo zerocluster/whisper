@@ -1,5 +1,15 @@
 # Changelog
 
+### v2.5.6 (2026-01-31)
+
+**Other changes:**
+
+- chore: rename c0rejs namespace (● [4a6f05f](https://github.com/zerocluster/whisper/commit/4a6f05f), [cab435a](https://github.com/zerocluster/whisper/commit/cab435a); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [48564d3](https://github.com/zerocluster/whisper/commit/48564d3); 👬 zdm)
+
+Compare with the previous release: [v2.5.5](https://github.com/zerocluster/whisper/compare/v2.5.5...v2.5.6)
+
 ### v2.5.5 (2026-01-30)
 
 **Other changes:**
