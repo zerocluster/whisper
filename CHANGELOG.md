@@ -1,5 +1,15 @@
 # Changelog
 
+### v2.5.7 (2026-02-06)
+
+**Other changes:**
+
+- chore: remove @zdm npm registry (● [1fe17e5](https://github.com/zerocluster/whisper/commit/1fe17e5); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [60bd2c2](https://github.com/zerocluster/whisper/commit/60bd2c2), [cfbc0b0](https://github.com/zerocluster/whisper/commit/cfbc0b0), [6f7360e](https://github.com/zerocluster/whisper/commit/6f7360e), [856ab6a](https://github.com/zerocluster/whisper/commit/856ab6a), [8cff513](https://github.com/zerocluster/whisper/commit/8cff513); 👬 zdm)
+
+Compare with the previous release: [v2.5.6](https://github.com/zerocluster/whisper/compare/v2.5.6...v2.5.7)
+
 ### v2.5.6 (2026-01-31)
 
 **Other changes:**
