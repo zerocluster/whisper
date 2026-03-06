@@ -1,5 +1,15 @@
 # Changelog
 
+### v2.5.11 (2026-03-06)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [545cbb0](https://github.com/zerocluster/whisper/commit/545cbb0), [4ed2def](https://github.com/zerocluster/whisper/commit/4ed2def); 👬 zdm)
+
+- chore(metadata): update package metadata (● [59cc071](https://github.com/zerocluster/whisper/commit/59cc071); 👬 zdm)
+
+Compare with the previous release: [v2.5.10](https://github.com/zerocluster/whisper/compare/v2.5.10...v2.5.11)
+
 ### v2.5.10 (2026-03-02)
 
 **Other changes:**
