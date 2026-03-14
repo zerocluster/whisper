@@ -1,5 +1,19 @@
 # Changelog
 
+### v2.5.13 (2026-03-14)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: remove app ajv file keyword (● [4001743](https://github.com/zerocluster/whisper/commit/4001743); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [f1d92ae](https://github.com/zerocluster/whisper/commit/f1d92ae), [52db882](https://github.com/zerocluster/whisper/commit/52db882); 👬 zdm)
+
+- docs: update docs (● [bd608d2](https://github.com/zerocluster/whisper/commit/bd608d2); 👬 zdm)
+
+Compare with the previous release: [v2.5.12](https://github.com/zerocluster/whisper/compare/v2.5.12...v2.5.13)
+
 ### v2.5.12 (2026-03-11)
 
 **Other changes:**
