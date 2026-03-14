@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.5.14 (2026-03-14)
+
+**Other changes:**
+
+- docs: add message docs (● [cc7b2da](https://github.com/zerocluster/whisper/commit/cc7b2da); 👬 zdm)
+
+Compare with the previous release: [v2.5.13](https://github.com/zerocluster/whisper/compare/v2.5.13...v2.5.14)
+
 ### v2.5.13 (2026-03-14)
 
 **Code refactoring:**
