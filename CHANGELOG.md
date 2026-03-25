@@ -1,5 +1,19 @@
 # Changelog
 
+### v2.5.17 (2026-03-25)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename api message keyword to attachment (● [c68e11c](https://github.com/zerocluster/whisper/commit/c68e11c); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [f43855a](https://github.com/zerocluster/whisper/commit/f43855a); 👬 zdm)
+
+- docs: update docs (● [5e93227](https://github.com/zerocluster/whisper/commit/5e93227); 👬 zdm)
+
+Compare with the previous release: [v2.5.16](https://github.com/zerocluster/whisper/compare/v2.5.16...v2.5.17)
+
 ### v2.5.16 (2026-03-24)
 
 **Other changes:**
