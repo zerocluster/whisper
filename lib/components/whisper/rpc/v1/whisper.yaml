@@ -46,7 +46,7 @@ methods:
       - name: audio_file
         required: true
         schema:
-          message:
+          attachment:
             maxContentLength: 50 MB
             # contentType: ["text/plain"]
       - name: options
@@ -63,7 +63,7 @@ methods:
       - name: audio_file
         required: true
         schema:
-          message:
+          attachment:
             maxContentLength: 50 MB
             # contentType: ["text/plain"]
       - name: options
