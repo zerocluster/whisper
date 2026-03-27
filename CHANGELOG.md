@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.5.19 (2026-03-27)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename content accessor methods (● [ebeb595](https://github.com/zerocluster/whisper/commit/ebeb595); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [96e51e7](https://github.com/zerocluster/whisper/commit/96e51e7), [40e2b6d](https://github.com/zerocluster/whisper/commit/40e2b6d); 👬 zdm)
+
+Compare with the previous release: [v2.5.18](https://github.com/zerocluster/whisper/compare/v2.5.18...v2.5.19)
+
 ### v2.5.18 (2026-03-25)
 
 **Other changes:**
