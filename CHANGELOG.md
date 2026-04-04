@@ -1,5 +1,11 @@
 # Changelog
 
+### v2.5.25 (2026-04-04)
+
+No changes since the previous release.
+
+Compare with the previous release: [v2.5.24](https://github.com/zerocluster/whisper/compare/v2.5.24...v2.5.25)
+
 ### v2.5.24 (2026-04-04)
 
 **Other changes:**
