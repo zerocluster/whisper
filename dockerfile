@@ -6,7 +6,11 @@ RUN <<EOF
 #!/usr/bin/env bash
 
 apt-get update
-apt-get install -y git jq g++ cmake
+apt-get install -y \
+    git \
+    jq \
+    g++ \
+    cmake
 
 mkdir whisper.cpp
 cd whisper.cpp
