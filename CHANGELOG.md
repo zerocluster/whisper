@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.5.33 (2026-04-14)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update dockerfile (● [e334442](https://github.com/zerocluster/whisper/commit/e334442), [08d6c69](https://github.com/zerocluster/whisper/commit/08d6c69); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [272949e](https://github.com/zerocluster/whisper/commit/272949e), [c66d0bc](https://github.com/zerocluster/whisper/commit/c66d0bc), [1189a70](https://github.com/zerocluster/whisper/commit/1189a70), [4899427](https://github.com/zerocluster/whisper/commit/4899427), [c635161](https://github.com/zerocluster/whisper/commit/c635161), [2ec5d34](https://github.com/zerocluster/whisper/commit/2ec5d34); 👬 zdm)
+
+Compare with the previous release: [v2.5.32](https://github.com/zerocluster/whisper/compare/v2.5.32...v2.5.33)
+
 ### v2.5.32 (2026-04-09)
 
 **Other changes:**
