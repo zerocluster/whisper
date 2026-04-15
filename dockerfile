@@ -5,6 +5,9 @@ ARG WHISPER_VERSION=master
 RUN <<EOF
 #!/usr/bin/env bash
 
+set -Eeuo pipefail
+trap 'echo -e "⚠  Error ($0:$LINENO): $(sed -n "${LINENO}p" "$0" 2> /dev/null | grep -oE "\S.*\S|\S" || true)" >&2; return 3 2> /dev/null || exit 3' ERR
+
 apt-get update
 apt-get install -y \
     git \
@@ -41,6 +44,9 @@ COPY --from=build /var/local/whisper.cpp/build/Release/addon.node.node /var/loca
 
 RUN --mount=type=secret,id=GITHUB_TOKEN,env=GITHUB_TOKEN <<EOF
 #!/usr/bin/env bash
+
+set -Eeuo pipefail
+trap 'echo -e "⚠  Error ($0:$LINENO): $(sed -n "${LINENO}p" "$0" 2> /dev/null | grep -oE "\S.*\S|\S" || true)" >&2; return 3 2> /dev/null || exit 3' ERR
 
 # install dependencies
 NODE_ENV=production npm install-clean
