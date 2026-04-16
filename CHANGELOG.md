@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.5.34 (2026-04-16)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix dockerfile errors handler (● [11ad042](https://github.com/zerocluster/whisper/commit/11ad042); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [612b88d](https://github.com/zerocluster/whisper/commit/612b88d); 👬 zdm)
+
+Compare with the previous release: [v2.5.33](https://github.com/zerocluster/whisper/compare/v2.5.33...v2.5.34)
+
 ### v2.5.33 (2026-04-14)
 
 **Code refactoring:**
