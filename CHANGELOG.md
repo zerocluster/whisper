@@ -1,5 +1,23 @@
 # Changelog
 
+### v2.5.36 (2026-04-26)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix sh error trap (● [107b0d0](https://github.com/zerocluster/whisper/commit/107b0d0); 👬 zdm)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update .editorconfig (● [4a696dd](https://github.com/zerocluster/whisper/commit/4a696dd); 👬 zdm)
+
+- \[PATCH] refactor: update sh error trap (● [a292206](https://github.com/zerocluster/whisper/commit/a292206); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [32e8606](https://github.com/zerocluster/whisper/commit/32e8606), [b89d813](https://github.com/zerocluster/whisper/commit/b89d813), [e45a276](https://github.com/zerocluster/whisper/commit/e45a276), [fef77f9](https://github.com/zerocluster/whisper/commit/fef77f9), [37bb61c](https://github.com/zerocluster/whisper/commit/37bb61c), [3df958a](https://github.com/zerocluster/whisper/commit/3df958a), [4369571](https://github.com/zerocluster/whisper/commit/4369571); 👬 zdm)
+
+Compare with the previous release: [v2.5.35...v2.5.36](https://github.com/zerocluster/whisper/compare/v2.5.35...v2.5.36)
+
 ### v2.5.35 (2026-04-20)
 
 **Other changes:**
