@@ -1,5 +1,19 @@
 # Changelog
 
+### v2.5.38 (2026-05-11)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename cli.config.yaml to scli.config.yaml (● [0273579](https://github.com/zerocluster/whisper/commit/0273579); 👬 zdm)
+
+- \[PATCH] refactor: rename result.catch() to result.fromError() (● [1b8cc26](https://github.com/zerocluster/whisper/commit/1b8cc26); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [26cb760](https://github.com/zerocluster/whisper/commit/26cb760), [27f796e](https://github.com/zerocluster/whisper/commit/27f796e), [a10014f](https://github.com/zerocluster/whisper/commit/a10014f), [8ebed36](https://github.com/zerocluster/whisper/commit/8ebed36), [5e01b16](https://github.com/zerocluster/whisper/commit/5e01b16), [efde22b](https://github.com/zerocluster/whisper/commit/efde22b), [361b2dd](https://github.com/zerocluster/whisper/commit/361b2dd), [270d9d0](https://github.com/zerocluster/whisper/commit/270d9d0), [bf03814](https://github.com/zerocluster/whisper/commit/bf03814), [e0b9f44](https://github.com/zerocluster/whisper/commit/e0b9f44), [de7aef1](https://github.com/zerocluster/whisper/commit/de7aef1), [2011ea8](https://github.com/zerocluster/whisper/commit/2011ea8), [dc69fcc](https://github.com/zerocluster/whisper/commit/dc69fcc), [96a27d8](https://github.com/zerocluster/whisper/commit/96a27d8); 👬 zdm)
+
+Compare with the previous release: [v2.5.37...v2.5.38](https://github.com/zerocluster/whisper/compare/v2.5.37...v2.5.38)
+
 ### v2.5.37 (2026-04-29)
 
 **Other changes:**
