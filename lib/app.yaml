@@ -2,12 +2,12 @@ dependencies:
   - "@corejslib/core"
 
 services:
-  rpc:
+  main:
     components:
       whisper: true
       rpc: true
 
-defaultService: rpc
+defaultService: main
 
 components:
   env:
