@@ -1,5 +1,19 @@
 # Changelog
 
+### v2.5.42 (2026-05-29)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename app service to main (● [d6ef1ab](https://github.com/zerocluster/whisper/commit/d6ef1ab); 👬 zdm)
+
+**Other changes:**
+
+- build: remove registries from .npmrc (● [2936ebc](https://github.com/zerocluster/whisper/commit/2936ebc); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [782ed99](https://github.com/zerocluster/whisper/commit/782ed99), [b3813d4](https://github.com/zerocluster/whisper/commit/b3813d4), [416e5bb](https://github.com/zerocluster/whisper/commit/416e5bb), [01ee090](https://github.com/zerocluster/whisper/commit/01ee090), [dfe037e](https://github.com/zerocluster/whisper/commit/dfe037e), [164a425](https://github.com/zerocluster/whisper/commit/164a425); 👬 zdm)
+
+Compare with the previous release: [v2.5.41...v2.5.42](https://github.com/zerocluster/whisper/compare/v2.5.41...v2.5.42)
+
 ### v2.5.41 (2026-05-19)
 
 **Other changes:**
