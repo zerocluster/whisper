@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.5.43 (2026-06-19)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [d5a4a03](https://github.com/zerocluster/whisper/commit/d5a4a03), [94d575c](https://github.com/zerocluster/whisper/commit/94d575c), [84199dd](https://github.com/zerocluster/whisper/commit/84199dd), [567f1c2](https://github.com/zerocluster/whisper/commit/567f1c2), [6993bb3](https://github.com/zerocluster/whisper/commit/6993bb3), [7874dc0](https://github.com/zerocluster/whisper/commit/7874dc0), [ec70a52](https://github.com/zerocluster/whisper/commit/ec70a52), [92b8060](https://github.com/zerocluster/whisper/commit/92b8060), [0dc141f](https://github.com/zerocluster/whisper/commit/0dc141f), [d35f4ee](https://github.com/zerocluster/whisper/commit/d35f4ee), [a2209d1](https://github.com/zerocluster/whisper/commit/a2209d1), [ae96e75](https://github.com/zerocluster/whisper/commit/ae96e75), [8867074](https://github.com/zerocluster/whisper/commit/8867074), [901d4d5](https://github.com/zerocluster/whisper/commit/901d4d5), [6154b43](https://github.com/zerocluster/whisper/commit/6154b43), [8a318c0](https://github.com/zerocluster/whisper/commit/8a318c0), [68e5587](https://github.com/zerocluster/whisper/commit/68e5587), [8aba3a8](https://github.com/zerocluster/whisper/commit/8aba3a8); 👬 zdm)
+
+Compare with the previous release: [v2.5.42...v2.5.43](https://github.com/zerocluster/whisper/compare/v2.5.42...v2.5.43)
+
 ### v2.5.42 (2026-05-29)
 
 **Code refactoring:**
