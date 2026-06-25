@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.5.50 (2026-06-25)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix addon path (● [be6258e](https://github.com/zerocluster/whisper/commit/be6258e); 👬 zdm)
+
+Compare with the previous release: [v2.5.49...v2.5.50](https://github.com/zerocluster/whisper/compare/v2.5.49...v2.5.50)
+
 ### v2.5.49 (2026-06-25)
 
 **Other changes:**
