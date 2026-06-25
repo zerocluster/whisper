@@ -40,7 +40,7 @@ EOF
 
 FROM ghcr.io/zerocluster/node/app
 
-COPY --from=build /var/local/whisper.cpp/build/Release/addon.node.node /var/local/whisper.node
+COPY --from=build /var/local/whisper.cpp/build/bin/addon.node.node /var/local/whisper.node
 
 RUN --mount=type=secret,id=GITHUB_TOKEN,env=GITHUB_TOKEN \
     <<EOF
