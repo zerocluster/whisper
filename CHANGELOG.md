@@ -468,7 +468,7 @@ Compare with the previous release: [v2.5.0](https://github.com/zerocluster/whisp
 
 **Bug fixes:**
 
-- \[PATCH] fix: remove NPM_TOKEN_GITHUB (● [0bd283d](https://github.com/zerocluster/whisper/commit/0bd283d); 👬 zdm)
+- \[PATCH] fix: remove NPM\_TOKEN\_GITHUB (● [0bd283d](https://github.com/zerocluster/whisper/commit/0bd283d); 👬 zdm)
 
 **Other changes:**
 
