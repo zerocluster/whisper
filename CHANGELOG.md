@@ -1,5 +1,21 @@
 # Changelog
 
+### v2.6.2 (2026-07-03)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix ffmpeg api usage (● [303cc9e](https://github.com/zerocluster/whisper/commit/303cc9e); 👬 zdm)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update ffmpeg api (● [dbbb559](https://github.com/zerocluster/whisper/commit/dbbb559), [5f1dad1](https://github.com/zerocluster/whisper/commit/5f1dad1); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [703a0fb](https://github.com/zerocluster/whisper/commit/703a0fb); 👬 zdm)
+
+Compare with the previous release: [v2.6.1...v2.6.2](https://github.com/zerocluster/whisper/compare/v2.6.1...v2.6.2)
+
 ### v2.6.1 (2026-07-03)
 
 **Other changes:**
