@@ -1,5 +1,21 @@
 # Changelog
 
+### v2.6.0 (2026-07-03)
+
+**New features:**
+
+- \[MINOR] feat: use ffmpeg api (● [75b1d5f](https://github.com/zerocluster/whisper/commit/75b1d5f); 👬 zdm)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix md \_ escape (● [d6798b3](https://github.com/zerocluster/whisper/commit/d6798b3); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [0625a8e](https://github.com/zerocluster/whisper/commit/0625a8e), [7da10b8](https://github.com/zerocluster/whisper/commit/7da10b8), [d5dab81](https://github.com/zerocluster/whisper/commit/d5dab81), [f339c37](https://github.com/zerocluster/whisper/commit/f339c37), [51296d5](https://github.com/zerocluster/whisper/commit/51296d5), [c482528](https://github.com/zerocluster/whisper/commit/c482528), [dff6026](https://github.com/zerocluster/whisper/commit/dff6026), [50c2369](https://github.com/zerocluster/whisper/commit/50c2369), [1baa6ba](https://github.com/zerocluster/whisper/commit/1baa6ba), [442e049](https://github.com/zerocluster/whisper/commit/442e049), [d3ee332](https://github.com/zerocluster/whisper/commit/d3ee332); 👬 zdm)
+
+Compare with the previous release: [v2.5.50...v2.6.0](https://github.com/zerocluster/whisper/compare/v2.5.50...v2.6.0)
+
 ### v2.5.50 (2026-06-25)
 
 **Bug fixes:**
