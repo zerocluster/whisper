@@ -1,5 +1,15 @@
 # Changelog
 
+### v2.6.5 (2026-07-06)
+
+**Other changes:**
+
+- build(deps): bunp @corejslib/core@^8.0.0 (● [03f6001](https://github.com/zerocluster/whisper/commit/03f6001); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [0385e57](https://github.com/zerocluster/whisper/commit/0385e57); 👬 zdm)
+
+Compare with the previous release: [v2.6.4...v2.6.5](https://github.com/zerocluster/whisper/compare/v2.6.4...v2.6.5)
+
 ### v2.6.4 (2026-07-05)
 
 **Other changes:**
