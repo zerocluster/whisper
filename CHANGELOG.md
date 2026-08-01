@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.6.19 (2026-08-01)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [2964b1d](https://github.com/zerocluster/whisper/commit/2964b1d), [3df325f](https://github.com/zerocluster/whisper/commit/3df325f); 👬 zdm)
+
+Compare with the previous release: [v2.6.18...v2.6.19](https://github.com/zerocluster/whisper/compare/v2.6.18...v2.6.19)
+
 ### v2.6.18 (2026-07-30)
 
 **Other changes:**
