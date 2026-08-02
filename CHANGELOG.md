@@ -1,5 +1,15 @@
 # Changelog
 
+### v2.6.20 (2026-08-02)
+
+**Other changes:**
+
+- chore: rename softvisio to corejslib (● [ab36fcf](https://github.com/zerocluster/whisper/commit/ab36fcf), [08f871b](https://github.com/zerocluster/whisper/commit/08f871b); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [fbe5578](https://github.com/zerocluster/whisper/commit/fbe5578); 👬 zdm)
+
+Compare with the previous release: [v2.6.19...v2.6.20](https://github.com/zerocluster/whisper/compare/v2.6.19...v2.6.20)
+
 ### v2.6.19 (2026-08-01)
 
 **Other changes:**
