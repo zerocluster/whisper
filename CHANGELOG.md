@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.6.25 (2026-08-04)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix docker build (● [4f28534](https://github.com/zerocluster/whisper/commit/4f28534); 👬 zdm)
+
+Compare with the previous release: [v2.6.24...v2.6.25](https://github.com/zerocluster/whisper/compare/v2.6.24...v2.6.25)
+
 ### v2.6.24 (2026-08-04)
 
 **Other changes:**
