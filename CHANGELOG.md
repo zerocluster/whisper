@@ -1,5 +1,15 @@
 # Changelog
 
+### v2.6.24 (2026-08-04)
+
+**Other changes:**
+
+- chore: rename ccli to zcli (● [6a4f0b9](https://github.com/zerocluster/whisper/commit/6a4f0b9), [cea76bd](https://github.com/zerocluster/whisper/commit/cea76bd), [9243d15](https://github.com/zerocluster/whisper/commit/9243d15); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [3fac404](https://github.com/zerocluster/whisper/commit/3fac404); 👬 zdm)
+
+Compare with the previous release: [v2.6.23...v2.6.24](https://github.com/zerocluster/whisper/compare/v2.6.23...v2.6.24)
+
 ### v2.6.23 (2026-08-04)
 
 **Other changes:**
