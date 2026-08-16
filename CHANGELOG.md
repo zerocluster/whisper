@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.6.26 (2026-08-16)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix glob api (● [97da3a4](https://github.com/zerocluster/whisper/commit/97da3a4); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [be76159](https://github.com/zerocluster/whisper/commit/be76159), [1f8d758](https://github.com/zerocluster/whisper/commit/1f8d758), [885339b](https://github.com/zerocluster/whisper/commit/885339b), [d3a7a7b](https://github.com/zerocluster/whisper/commit/d3a7a7b), [ff4f58a](https://github.com/zerocluster/whisper/commit/ff4f58a); 👬 zdm)
+
+Compare with the previous release: [v2.6.25...v2.6.26](https://github.com/zerocluster/whisper/compare/v2.6.25...v2.6.26)
+
 ### v2.6.25 (2026-08-04)
 
 **Bug fixes:**
