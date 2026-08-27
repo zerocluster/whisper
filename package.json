@@ -1,6 +1,6 @@
 {
     "name": "@zerocluster/whisper",
-    "version": "2.6.32",
+    "version": "2.6.33",
     "private": true,
     "description": "Whisper STT",
     "keywords": [
