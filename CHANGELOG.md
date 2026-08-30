@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.6.34 (2026-08-30)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix shebang (● [e82467b](https://github.com/zerocluster/whisper/commit/e82467b); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [037ae44](https://github.com/zerocluster/whisper/commit/037ae44), [2ab7aa3](https://github.com/zerocluster/whisper/commit/2ab7aa3), [f861f4a](https://github.com/zerocluster/whisper/commit/f861f4a), [6692bd3](https://github.com/zerocluster/whisper/commit/6692bd3), [731def6](https://github.com/zerocluster/whisper/commit/731def6); 👬 zdm)
+
+Compare with the previous release: [v2.6.33...v2.6.34](https://github.com/zerocluster/whisper/compare/v2.6.33...v2.6.34)
+
 ### v2.6.33 (2026-08-27)
 
 **Other changes:**
