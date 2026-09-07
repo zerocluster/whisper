@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.6.36 (2026-09-07)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename .install() to .update() (● [9f32d98](https://github.com/zerocluster/whisper/commit/9f32d98); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [98f6b56](https://github.com/zerocluster/whisper/commit/98f6b56), [0157861](https://github.com/zerocluster/whisper/commit/0157861); 👬 zdm)
+
+Compare with the previous release: [v2.6.35...v2.6.36](https://github.com/zerocluster/whisper/compare/v2.6.35...v2.6.36)
+
 ### v2.6.35 (2026-09-05)
 
 **Other changes:**
