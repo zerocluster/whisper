@@ -20,7 +20,7 @@ await Cli.parse( CLI );
 
 externalResources.add( "corejslib/core/resources/ffmpeg-" + process.platform );
 
-const res = await externalResources.install( {
+const res = await externalResources.update( {
     "force": process.cli.options.force,
 } );
 
