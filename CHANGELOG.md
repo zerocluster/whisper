@@ -1,5 +1,15 @@
 # Changelog
 
+### v2.6.42 (2026-09-15)
+
+**Other changes:**
+
+- chore: migrate to @corejslib/app (● [05d0a17](https://github.com/zerocluster/whisper/commit/05d0a17); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [2019dd1](https://github.com/zerocluster/whisper/commit/2019dd1); 👬 zdm)
+
+Compare with the previous release: [v2.6.41...v2.6.42](https://github.com/zerocluster/whisper/compare/v2.6.41...v2.6.42)
+
 ### v2.6.41 (2026-09-15)
 
 **Other changes:**
