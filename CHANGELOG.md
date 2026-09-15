@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.6.43 (2026-09-15)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update whisper worker import path (● [a7e45be](https://github.com/zerocluster/whisper/commit/a7e45be); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [8f9feee](https://github.com/zerocluster/whisper/commit/8f9feee); 👬 zdm)
+
+Compare with the previous release: [v2.6.42...v2.6.43](https://github.com/zerocluster/whisper/compare/v2.6.42...v2.6.43)
+
 ### v2.6.42 (2026-09-15)
 
 **Other changes:**
