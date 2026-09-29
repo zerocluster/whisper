@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.6.51 (2026-09-29)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [7c9da52](https://github.com/zerocluster/whisper/commit/7c9da52), [3117749](https://github.com/zerocluster/whisper/commit/3117749); 👬 zdm)
+
+Compare with the previous release: [v2.6.50...v2.6.51](https://github.com/zerocluster/whisper/compare/v2.6.50...v2.6.51)
+
 ### v2.6.50 (2026-09-26)
 
 **Other changes:**
@@ -918,7 +926,7 @@ Compare with the previous release: [v2.5.0](https://github.com/zerocluster/whisp
 
 **Bug fixes:**
 
-- \[PATCH] fix: remove NPM\_TOKEN\_GITHUB (● [0bd283d](https://github.com/zerocluster/whisper/commit/0bd283d); 👬 zdm)
+- \[PATCH] fix: remove NPM_TOKEN_GITHUB (● [0bd283d](https://github.com/zerocluster/whisper/commit/0bd283d); 👬 zdm)
 
 **Other changes:**
 
