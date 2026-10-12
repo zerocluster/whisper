@@ -20,6 +20,11 @@ await Cli.parse( CLI );
 
 externalResources.add( "corejslib/core/resources/ffmpeg-" + process.platform );
 
+externalResources.add( {
+    "id": "zerocluster/whisper/resources/whisper",
+    "node": true,
+} );
+
 const res = await externalResources.update( {
     "force": process.cli.options.force,
 } );

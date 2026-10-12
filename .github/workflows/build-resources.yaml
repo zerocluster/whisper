@@ -1,0 +1,33 @@
+name: build-resources
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # every day at 00:00
+
+jobs:
+  build:
+    defaults:
+      run:
+        shell: bash
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    strategy:
+      matrix:
+        node-version: [lts/*, latest]
+        os: [ubuntu-latest]
+        architecture: [x64]
+    name: build on ${{ matrix.os }} ${{ matrix.architecture }} node ${{ matrix.node-version }}
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: softvisio/actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+          architecture: ${{ matrix.architecture }}
+
+      - uses: softvisio/actions/checkout@v1
+
+      - run: |
+          cd build
+          npm install --ignore-scripts
+          npm run build

@@ -1,0 +1,27 @@
+#!/usr/bin/env node
+
+import "#core/stream";
+import Cli from "#core/cli";
+import ExternalResourceBuilder from "#core/external-resource-builder";
+import Whisper from "#lib/whisper";
+
+const CLI = {
+    "title": "Build resources",
+    "options": {
+        "force": {
+            "description": "force build",
+            "default": false,
+            "schema": {
+                "type": "boolean",
+            },
+        },
+    },
+};
+
+await Cli.parse( CLI );
+
+const res = await ExternalResourceBuilder.build( [ new Whisper() ], {
+    "force": process.cli.options.force,
+} );
+
+if ( !res.ok ) process.exit( 1 );

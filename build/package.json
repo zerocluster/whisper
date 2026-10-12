@@ -1,0 +1,28 @@
+{
+    "name": "@zerocluster/whisper-build",
+    "version": "0.0.0",
+    "private": true,
+    "homepage": "https://github.com/zerocluster/whisper?tab=readme-ov-file#readme",
+    "bugs": {
+        "url": "https://github.com/zerocluster/whisper/issues",
+        "email": "root <root@softvisio.net>"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zerocluster/whisper.git",
+        "directory": "build"
+    },
+    "license": "Proprietary Software",
+    "author": "root <root@softvisio.net>",
+    "type": "module",
+    "imports": {
+        "#core/*": "@corejslib/core/*",
+        "#lib/*": "./lib/*.js"
+    },
+    "scripts": {
+        "build": "node bin/build.js"
+    },
+    "dependencies": {
+        "@corejslib/core": "^8.0.0"
+    }
+}
