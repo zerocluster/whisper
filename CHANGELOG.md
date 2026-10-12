@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.7.1 (2026-10-12)
+
+**Other changes:**
+
+- build: package whisper resource with application (● [c882148](https://github.com/zerocluster/whisper/commit/c882148); 👬 zdm)
+
+Compare with the previous release: [v2.7.0...v2.7.1](https://github.com/zerocluster/whisper/compare/v2.7.0...v2.7.1)
+
 ### v2.7.0 (2026-10-12)
 
 **New features:**
