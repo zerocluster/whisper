@@ -1,5 +1,25 @@
 # Changelog
 
+### v2.7.0 (2026-10-12)
+
+**New features:**
+
+- \[MINOR] feat: add builder (● [b568731](https://github.com/zerocluster/whisper/commit/b568731); 👬 zdm)
+
+**Bug fixes:**
+
+- \[PATCH] fix: install binary extension for linux platform only (● [5a2092c](https://github.com/zerocluster/whisper/commit/5a2092c); 👬 zdm)
+
+**Other changes:**
+
+- build: include /build as a subpackage (● [55ef0e2](https://github.com/zerocluster/whisper/commit/55ef0e2); 👬 zdm)
+
+- chore: update deps (● [89fa963](https://github.com/zerocluster/whisper/commit/89fa963); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [1310780](https://github.com/zerocluster/whisper/commit/1310780); 👬 zdm)
+
+Compare with the previous release: [v2.6.63...v2.7.0](https://github.com/zerocluster/whisper/compare/v2.6.63...v2.7.0)
+
 ### v2.6.63 (2026-10-12)
 
 **Bug fixes:**

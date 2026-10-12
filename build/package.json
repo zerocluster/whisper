@@ -1,6 +1,6 @@
 {
     "name": "@zerocluster/whisper-build",
-    "version": "0.0.0",
+    "version": "2.7.0",
     "private": true,
     "homepage": "https://github.com/zerocluster/whisper?tab=readme-ov-file#readme",
     "bugs": {
