@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.6.61 (2026-10-12)
+
+**Other changes:**
+
+- build(deps): update @corejslib/whisper to 1.0.1 (● [213d174](https://github.com/zerocluster/whisper/commit/213d174); 👬 zdm)
+
+Compare with the previous release: [v2.6.60...v2.6.61](https://github.com/zerocluster/whisper/compare/v2.6.60...v2.6.61)
+
 ### v2.6.60 (2026-10-12)
 
 **Bug fixes:**
