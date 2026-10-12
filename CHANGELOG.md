@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.8.0 (2026-10-12)
+
+**New features:**
+
+- \[MINOR] feat: pass caller URL when resolving whisper resource (● [368eee5](https://github.com/zerocluster/whisper/commit/368eee5); 👬 zdm)
+
+Compare with the previous release: [v2.7.1...v2.8.0](https://github.com/zerocluster/whisper/compare/v2.7.1...v2.8.0)
+
 ### v2.7.1 (2026-10-12)
 
 **Other changes:**
