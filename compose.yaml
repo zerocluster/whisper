@@ -33,8 +33,6 @@ services:
       - { type: volume, source: whisper, target: /var/local/package/data }
 
     build:
-      args:
-        WHISPER_VERSION: latest # master
       secrets:
         - id=GITHUB_TOKEN,env=GITHUB_TOKEN
 
