@@ -1,5 +1,25 @@
 # Changelog
 
+### v2.6.60 (2026-10-12)
+
+**Bug fixes:**
+
+- \[PATCH] fix: allow omitted speech-to-text options (● [fcfffca](https://github.com/zerocluster/whisper/commit/fcfffca); 👬 zdm)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: import whisper package in worker directly (● [65c69be](https://github.com/zerocluster/whisper/commit/65c69be); 👬 zdm)
+
+**Other changes:**
+
+- build: remove whisper.cpp compilation stage from Dockerfile (● [7d5309a](https://github.com/zerocluster/whisper/commit/7d5309a); 👬 zdm)
+
+- build(deps): add whisper runtime dependency (● [dc79284](https://github.com/zerocluster/whisper/commit/dc79284); 👬 zdm)
+
+    Allow install scripts for whisper and its required packages.
+
+Compare with the previous release: [v2.6.59...v2.6.60](https://github.com/zerocluster/whisper/compare/v2.6.59...v2.6.60)
+
 ### v2.6.59 (2026-10-11)
 
 **Other changes:**
