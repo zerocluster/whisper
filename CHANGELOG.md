@@ -1,5 +1,19 @@
 # Changelog
 
+### v2.8.2 (2026-10-12)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: use core aliases in whisper worker (● [e2f0327](https://github.com/zerocluster/whisper/commit/e2f0327); 👬 zdm)
+
+**Other changes:**
+
+- build: remove Whisper version build argument (● [7eaa654](https://github.com/zerocluster/whisper/commit/7eaa654); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [ca576a0](https://github.com/zerocluster/whisper/commit/ca576a0), [dca5036](https://github.com/zerocluster/whisper/commit/dca5036), [327cae3](https://github.com/zerocluster/whisper/commit/327cae3); 👬 zdm)
+
+Compare with the previous release: [v2.8.1...v2.8.2](https://github.com/zerocluster/whisper/compare/v2.8.1...v2.8.2)
+
 ### v2.8.1 (2026-10-12)
 
 No changes since the previous release.
