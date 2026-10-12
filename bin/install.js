@@ -25,6 +25,7 @@ if ( process.platform === "linux" ) {
         {
             "id": "zerocluster/whisper/resources/whisper",
             "node": true,
+            "caller": import.meta.url,
         },
         {
             "location": "package",
