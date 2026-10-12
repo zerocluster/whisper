@@ -29,6 +29,12 @@
         "start": "node bin/main.js run --mode=development"
     },
     "dependencies": {
-        "@corejslib/app": "^1.0.0"
+        "@corejslib/app": "^1.0.0",
+        "@corejslib/whisper": "^1.0.0"
+    },
+    "allowScripts": {
+        "@corejslib/whisper": true,
+        "@corejslib/core": true,
+        "@corejslib/uws": true
     }
 }
