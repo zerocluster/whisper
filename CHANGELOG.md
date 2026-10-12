@@ -1,5 +1,11 @@
 # Changelog
 
+### v2.8.1 (2026-10-12)
+
+No changes since the previous release.
+
+Compare with the previous release: [v2.8.0...v2.8.1](https://github.com/zerocluster/whisper/compare/v2.8.0...v2.8.1)
+
 ### v2.8.0 (2026-10-12)
 
 **New features:**
