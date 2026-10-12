@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.6.63 (2026-10-12)
+
+**Bug fixes:**
+
+- \[PATCH] fix: handle omitted RPC options gracefully (● [9cd07b9](https://github.com/zerocluster/whisper/commit/9cd07b9); 👬 zdm)
+
+Compare with the previous release: [v2.6.62...v2.6.63](https://github.com/zerocluster/whisper/compare/v2.6.62...v2.6.63)
+
 ### v2.6.62 (2026-10-12)
 
 **Bug fixes:**
