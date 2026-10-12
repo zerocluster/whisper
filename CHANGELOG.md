@@ -1,5 +1,19 @@
 # Changelog
 
+### v2.6.62 (2026-10-12)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update Whisper worker to call the exported whisper function (● [007d29c](https://github.com/zerocluster/whisper/commit/007d29c); 👬 zdm)
+
+    The worker was promisifying the module default instead of the actual `whisper` function export, which prevented the API from invoking the native worker correctly.
+
+**Other changes:**
+
+- chore: add speech transcription test script and audio fixture (● [70f37d7](https://github.com/zerocluster/whisper/commit/70f37d7); 👬 zdm)
+
+Compare with the previous release: [v2.6.61...v2.6.62](https://github.com/zerocluster/whisper/compare/v2.6.61...v2.6.62)
+
 ### v2.6.61 (2026-10-12)
 
 **Other changes:**
