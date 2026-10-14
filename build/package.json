@@ -2,7 +2,7 @@
     "name": "@zerocluster/whisper-build",
     "version": "2.8.3",
     "private": true,
-    "homepage": "https://github.com/zerocluster/whisper?tab=readme-ov-file#readme",
+    "homepage": "https://zerocluster.github.io/whisper/",
     "bugs": {
         "url": "https://github.com/zerocluster/whisper/issues",
         "email": "root <root@softvisio.net>"
