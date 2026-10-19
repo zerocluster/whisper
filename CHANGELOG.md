@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.8.5 (2026-10-19)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [cb77212](https://github.com/zerocluster/whisper/commit/cb77212), [9337629](https://github.com/zerocluster/whisper/commit/9337629), [35c4199](https://github.com/zerocluster/whisper/commit/35c4199), [e7d87cc](https://github.com/zerocluster/whisper/commit/e7d87cc), [74eebcd](https://github.com/zerocluster/whisper/commit/74eebcd), [9ea5481](https://github.com/zerocluster/whisper/commit/9ea5481), [f0f768f](https://github.com/zerocluster/whisper/commit/f0f768f); 👬 zdm)
+
+Compare with the previous release: [v2.8.4...v2.8.5](https://github.com/zerocluster/whisper/compare/v2.8.4...v2.8.5)
+
 ### v2.8.4 (2026-10-14)
 
 **Other changes:**
