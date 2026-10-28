@@ -1,6 +1,6 @@
 {
     "name": "@zerocluster/whisper-build",
-    "version": "2.8.14",
+    "version": "2.8.15",
     "private": true,
     "homepage": "https://zerocluster.github.io/whisper/",
     "bugs": {
