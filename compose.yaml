@@ -4,7 +4,6 @@
 services:
   whisper:
     image: ghcr.io/zerocluster/whisper
-    depends_on: []
     init: true
     stop_grace_period: 5m
 
