@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.8.24 (2026-11-09)
+
+**Bug fixes:**
+
+- \[PATCH] fix: remove depends_on from compose file (● [08e287a](https://github.com/zerocluster/whisper/commit/08e287a); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [f6512ad](https://github.com/zerocluster/whisper/commit/f6512ad), [7dd7920](https://github.com/zerocluster/whisper/commit/7dd7920); 👬 zdm)
+
+Compare with the previous release: [v2.8.23...v2.8.24](https://github.com/zerocluster/whisper/compare/v2.8.23...v2.8.24)
+
 ### v2.8.23 (2026-11-06)
 
 **Other changes:**
