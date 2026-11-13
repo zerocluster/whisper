@@ -3,7 +3,7 @@
 import WhisperApi from "#core/api/whisper";
 import File from "#core/file";
 
-const api = new WhisperApi( "ws://whisper.devel.softvisio.net:81/api" );
+const api = new WhisperApi( "ws://whisper.devel.softvisio.net:81/" );
 
 var res;
 

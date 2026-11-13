@@ -17,7 +17,7 @@ docs:
 
   app:
     rpc:
-      url: ws://whisper:81/api
+      url: ws://whisper:81/
 
 subPackages:
   - /build
