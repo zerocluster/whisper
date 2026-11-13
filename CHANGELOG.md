@@ -1,5 +1,19 @@
 # Changelog
 
+### v2.8.27 (2026-11-13)
+
+**Bug fixes:**
+
+- \[PATCH] fix: use root websocket endpoint (● [5d38f7d](https://github.com/zerocluster/whisper/commit/5d38f7d); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [8b54af8](https://github.com/zerocluster/whisper/commit/8b54af8), [86bba25](https://github.com/zerocluster/whisper/commit/86bba25); 👬 zdm)
+
+- docs: update docs (● [8ea4086](https://github.com/zerocluster/whisper/commit/8ea4086); 👬 zdm)
+
+Compare with the previous release: [v2.8.26...v2.8.27](https://github.com/zerocluster/whisper/compare/v2.8.26...v2.8.27)
+
 ### v2.8.26 (2026-11-12)
 
 **Other changes:**
