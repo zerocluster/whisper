@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.8.31 (2026-11-14)
+
+**Other changes:**
+
+- chore: remove app rpc url configuration (● [3ba8007](https://github.com/zerocluster/whisper/commit/3ba8007); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [fabeeb0](https://github.com/zerocluster/whisper/commit/fabeeb0); 👬 zdm)
+
+- docs: use localhost in RPC API examples (● [7c0ba1f](https://github.com/zerocluster/whisper/commit/7c0ba1f); 👬 zdm)
+
+Compare with the previous release: [v2.8.30...v2.8.31](https://github.com/zerocluster/whisper/compare/v2.8.30...v2.8.31)
+
 ### v2.8.30 (2026-11-13)
 
 **Other changes:**
