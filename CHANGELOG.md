@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.8.36 (2026-11-19)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [ea1fa5c](https://github.com/zerocluster/whisper/commit/ea1fa5c); 👬 zdm)
+
+Compare with the previous release: [v2.8.35...v2.8.36](https://github.com/zerocluster/whisper/compare/v2.8.35...v2.8.36)
+
 ### v2.8.35 (2026-11-18)
 
 **Other changes:**
