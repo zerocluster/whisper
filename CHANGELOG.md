@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.8.39 (2026-11-21)
+
+**Code refactoring**:
+
+- \[PATCH] refactor: remove unused app configuration fields (● [772475f](https://github.com/zerocluster/whisper/commit/772475f); 👬 zdm)
+
+**Other changes**:
+
+- chore(deps): update locked dependencies (● [99a2300](https://github.com/zerocluster/whisper/commit/99a2300); 👬 zdm)
+
+Compare with the previous release: [v2.8.38...v2.8.39](https://github.com/zerocluster/whisper/compare/v2.8.38...v2.8.39)
+
 ### v2.8.38 (2026-11-21)
 
 **Other changes**:
