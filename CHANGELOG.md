@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.8.41 (2026-11-22)
+
+**Code refactoring**:
+
+- \[PATCH] refactor: update whisper worker thread startup (● [730d670](https://github.com/zerocluster/whisper/commit/730d670); 👬 zdm)
+
+Compare with the previous release: [v2.8.40...v2.8.41](https://github.com/zerocluster/whisper/compare/v2.8.40...v2.8.41)
+
 ### v2.8.40 (2026-11-22)
 
 **Other changes**:
