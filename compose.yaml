@@ -20,7 +20,7 @@ services:
       #           kind: NVIDIA-GPU
       #           value: 0
 
-    command: run
+    command: start
 
     # secrets:
     #   - { source: whisper_env.yaml, target: /var/local/package/env.yaml }
