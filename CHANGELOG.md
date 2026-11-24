@@ -1,5 +1,19 @@
 # Changelog
 
+### v2.8.43 (2026-11-24)
+
+**Bug fixes**:
+
+- \[PATCH] fix: fix cli config (● [10cddd7](https://github.com/zerocluster/whisper/commit/10cddd7); 👬 zdm)
+
+- \[PATCH] fix: rename app run command to start (● [ce05ae4](https://github.com/zerocluster/whisper/commit/ce05ae4); 👬 zdm)
+
+**Other changes**:
+
+- chore(deps): update locked dependencies (● [a963d6c](https://github.com/zerocluster/whisper/commit/a963d6c), [56e6c90](https://github.com/zerocluster/whisper/commit/56e6c90); 👬 zdm)
+
+Compare with the previous release: [v2.8.42...v2.8.43](https://github.com/zerocluster/whisper/compare/v2.8.42...v2.8.43)
+
 ### v2.8.42 (2026-11-22)
 
 **Other changes**:
