@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.8.44 (2026-11-25)
+
+**Bug fixes**:
+
+- \[PATCH] fix: use start command in development script (● [a59eb09](https://github.com/zerocluster/whisper/commit/a59eb09); 👬 zdm)
+
+**Other changes**:
+
+- chore(deps): update locked dependencies (● [bed993f](https://github.com/zerocluster/whisper/commit/bed993f); 👬 zdm)
+
+Compare with the previous release: [v2.8.43...v2.8.44](https://github.com/zerocluster/whisper/compare/v2.8.43...v2.8.44)
+
 ### v2.8.43 (2026-11-24)
 
 **Bug fixes**:
